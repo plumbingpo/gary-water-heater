@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://garywaterheater.com/sitemap.xml
